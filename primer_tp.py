@@ -9,3 +9,15 @@
 # El equipo crea un Project en Githug y agrega 2 al menos 2 issue por cada tarea a realizar.
 # Crear una rama por cada miembro.
 # El primer integrante del grupo, creará el repositorio, creará un programa en Python con la función suma, y el main y subirá al repo el código producido
+
+val1=int(input("Por favor, ingrese el primer número que desea sumar: "))
+val2=int(input("Por favor, ingrese el segundo número que desea sumar: "))
+val3=int(input("Por favor, ingrese el tercer número que desea sumar: "))
+
+
+
+def suma (val1, val2, val3):
+    return val1 + val2 + val3
+
+
+print("La suma de sus números da el valor de: ",suma(val1, val2, val3))
