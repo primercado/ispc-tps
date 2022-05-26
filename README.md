@@ -4,7 +4,7 @@ Instituto Superior Politécnico Córdoba
 GRUPO 1 AULA 9 COHORTE 2022
 
 Alumnxs:
-Mercado, Isaac Pablo Rubén
+Mercado, Isaac Pablo Rubén, Ayelén Montenegro
 (Por fa, vayan agregándose)
 
 
