@@ -1,10 +1,11 @@
-TÉCNICATURA EN CIENCIAS DE DATOS E INTELIGENCIA ARTIFICIAL
+# TÉCNICATURA EN CIENCIAS DE DATOS E INTELIGENCIA ARTIFICIAL
 Instituto Superior Politécnico Córdoba
-
 GRUPO 1 AULA 9 COHORTE 2022
 
-Alumnxs:
-Mercado, Isaac Pablo Rubén, Ayelén Montenegro
+### Alumnxs
+- Mercado, Isaac Pablo Rubén
+- Ayelén Montenegro
+- Maurizio Nahuel Miño
 (Por fa, vayan agregándose)
 
 
