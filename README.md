@@ -1,3 +1,4 @@
+![ISPC](http://drive.google.com/uc?export=view&id=1WQ7jzUPaGrOdj6j1RrliZpUp2aXIZyQr)
 # TÉCNICATURA EN CIENCIAS DE DATOS E INTELIGENCIA ARTIFICIAL
 Instituto Superior Politécnico Córdoba
 GRUPO 1 AULA 9 COHORTE 2022
@@ -6,6 +7,7 @@ GRUPO 1 AULA 9 COHORTE 2022
 - Mercado, Isaac Pablo Rubén
 - Ayelén Montenegro
 - Maurizio Nahuel Miño
+- Celeste Miranda 
 (Por fa, vayan agregándose)
 
 
