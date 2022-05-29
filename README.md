@@ -8,6 +8,7 @@ GRUPO 1 AULA 9 COHORTE 2022
 - Ayelén Montenegro
 - Maurizio Nahuel Miño
 - Celeste Miranda 
+- Moreno Christian
 (Por fa, vayan agregándose)
 
 
