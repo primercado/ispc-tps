@@ -11,6 +11,7 @@ GRUPO 1 AULA 9 COHORTE 2022
 - Moreno Christian
 - Ivan Didier Meier
 - Romina Alicia Nievas Jofre
+- Gabriel Medina
 (Por fa, vayan agregándose)
 
 
