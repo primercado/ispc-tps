@@ -10,6 +10,7 @@ GRUPO 1 AULA 9 COHORTE 2022
 - Celeste Miranda 
 - Moreno Christian
 - Ivan Didier Meier
+- Romina Alicia Nievas Jofre
 (Por fa, vayan agregándose)
 
 
