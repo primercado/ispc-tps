@@ -9,6 +9,7 @@ GRUPO 1 AULA 9 COHORTE 2022
 - Maurizio Nahuel Miño
 - Celeste Miranda 
 - Moreno Christian
+- Ivan Didier Meier
 (Por fa, vayan agregándose)
 
 
